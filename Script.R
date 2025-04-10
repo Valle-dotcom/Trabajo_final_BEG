@@ -10,6 +10,7 @@
 #spread and overlap of the environmental niches of the regions. This allows for a comparison of the 
 #environmental conditions that characterize each area. 
 
+#NOTA: Es importante ajustar los directorios de los archivos al directorio que se está usando
 
 # # 1. Loading Libraries and Setting Working Directory # #
 

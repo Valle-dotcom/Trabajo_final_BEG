@@ -8,3 +8,5 @@ El objetivo de este script de R, es realizar un análisis del espacio ambiental 
 Colibrí Ermitaño Mexicano (*Phaethornis mexicanus*).
 
 Se incluye el script de R y los archivos necesarios para llevar a cabo este análisis
+
+![image](https://github.com/user-attachments/assets/de364d24-859a-449b-8b66-1a3234545893)

@@ -7,7 +7,8 @@ Alumno: Jorge Alberto Valle Cruz
 El objetivo de este script de R, es realizar un análisis del espacio ambiental del área de distribución geográfica del
 Colibrí Ermitaño Mexicano (*Phaethornis mexicanus*).
 
-Se incluye el script de R y los archivos necesarios para llevar a cabo este análisis, las variables ambientales se obtuvieron de [CHELSA](https://chelsa-climate.org/bioclim/)
+Se incluye el script de R y los archivos necesarios para llevar a cabo este análisis, a excepción
+de las variables ambientales, las cuales se obtuvieron de [CHELSA](https://chelsa-climate.org/bioclim/)
 y no fue posible subirlas a este repositorio debido a que son archivos muy pesados
 
 
